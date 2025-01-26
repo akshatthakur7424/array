@@ -29,7 +29,7 @@ public class Array {
             System.out.println("Element at " + i + " index :- " + arr[i]);
         }
         
-        System.out.println("Printing elements of array usin for each loop.");
+        System.out.println("Printing elements of array using for each loop.");
         // Another way of accessing the elements of an array using For-Each Loop.
         for (int element : arr) {
             System.out.print(element + " ");

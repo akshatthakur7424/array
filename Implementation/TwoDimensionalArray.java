@@ -12,6 +12,7 @@ public class TwoDimensionalArray {
         System.out.println(array2[0][0]);
         System.out.println(array2[0][1]);
         System.out.println(array2[0][2]);
+        System.out.println(array2[1][1]);
 
         System.out.println();
         System.out.println("Two Dimensional Array Creation");
